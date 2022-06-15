@@ -13,10 +13,12 @@ The Mono app is intended to enable users to keep track of their costs!
 
 ## Features
 
+- Create an account 
 - Login
 - Enter new transactions
-- Transaction details
-- Statistics
+- Display Transaction details
+- Edit Transaction details
+- Display weekly/monthly/yearly incomes - expenses Statistics
 
 
 ## Design
